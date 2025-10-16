@@ -53,7 +53,8 @@
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lfvSantini&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB0000&ring=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" /></a>
-      <img width=325 align="center" src="(https://github-readme-stats-vc53.vercel.app/api/top-langs/?username=lfvSantini&layout=pie)](https://github.com/anuraghazra/github-readme-stats)/>
+    <br/>
+      <img width=325 align="center" src="https://github-readme-stats-vc53.vercel.app/api/top-langs/?username=lfvSantini&layout=pie" alt="top langs" />
 </div>
 
 <br/><br/>
