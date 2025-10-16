@@ -52,7 +52,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lfvSantini&theme=codestackr&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=FFFFFF&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-eight.vercel.app?user=lfvSantini&theme=codestackr&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=FFFFFF&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" /></a>
     <br>
       <img width=325 align="center" src="https://github-readme-stats-vc53.vercel.app/api/top-langs/?username=lfvSantini&layout=pie&theme=codeSTACKr" alt="top langs" />
 </div>
