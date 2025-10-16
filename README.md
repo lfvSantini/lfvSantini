@@ -52,7 +52,7 @@
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lfvSantini&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB0000&ring=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lfvSantini&theme=codestackr&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EBEBEB&fire=FF0000&currStreakNum=EBEBEB&sideNums=EBEBEB&sideLabels=EBEBEB&currStreakLabel=EBEBEB" alt="GitHub Streak" /></a>
     <br/>
       <img width=325 align="center" src="https://github-readme-stats-vc53.vercel.app/api/top-langs/?username=lfvSantini&layout=pie&theme=codeSTACKr" alt="top langs" />
 </div>
